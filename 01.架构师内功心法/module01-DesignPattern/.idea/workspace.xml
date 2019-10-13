@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2acbff23-1742-4f1d-9e4e-c3d6244e58c8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/work1-factory-mode/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="module01-DesignPattern" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ContextLoaderListener.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServletContextListener.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.24/tomcat-embed-core-9.0.24.jar!/javax/servlet/ServletContextListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventListener.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/EventListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hasReadResolveMethod</find>
+      <find>ObjectStreamClass</find>
+      <find>readOrdinaryObject</find>
+      <find>ObjectStreamClass(</find>
+      <find>clone</find>
+      <find>clone()</find>
+      <find>clone(</find>
+      <find>CGLIB$findLove$0</find>
+      <find>create</find>
+      <find>create(</find>
+      <find>getHandlerA</find>
+      <find>update(</find>
+      <find>notifyObservers</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/template/BigDataCourse.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/template/CourseTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/template/jdbc/CourseTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/template/jdbc/RowMapper.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/template/jdbc/JdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/template/jdbc/Member.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/template/jdbc/MemberDao.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/objectadapter/DC5.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/objectadapter/ObjectAdapterTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/objectadapter/PowerAdapter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/ResultMsg.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/Member.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v1/servie/SiginService.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v1/servie/SiginForThirdService.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v1/SiginForTirdServiceTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/adapters/LoginForQQAdapter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/adapters/LoginForSinaAdapter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/adapters/LoginForTelAdapter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/adapters/LoginForTokenAdapter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/adapters/LoginForWechatAdapter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/IPassportForThird.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/V2Test.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/PassportForThirdAdapter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/objectadapter/AC220.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/BaseBattercake.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/Battercake.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/BattercakeDecorator.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/EggDecorator.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/SausageDecorator.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/BatterCakeTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/V2Test.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/SiginService.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/IsigninForThirdService.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/SigninForThirdService.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/Question.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/Teacher.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/GPer.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/iobserver/Teacher.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/iobserver/Student.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/iobserver/ITest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/Ecent.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/Event.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/MouseEventType.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/Mouse.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/MouseEventCallback.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/EventsTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/pom.xml" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/guava/GuavaTest.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/EventLisenter.java" />
+        <option value="$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/guava/GuavaEvent.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="factory-mode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="factory-mode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="107" />
+    <option name="y" value="139" />
+    <option name="width" value="1564" />
+    <option name="height" value="887" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chb" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chb" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chb" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="lazy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work1-factory-mode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chb" type="462c0819:PsiDirectoryNode" />
+              <item name="lazy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="module01-DesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="ContextLoader&#9;PSI&#9;JAVA://org.springframework.web.context.ContextLoaderListener&#10;DispatcherS&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;HandlerA&#9;PSI&#9;JAVA://org.springframework.web.servlet.HandlerAdapter&#10;Advisor&#9;PSI&#9;JAVA://org.springframework.aop.framework.adapter.AdvisorAdapter&#10;baseExe&#9;PSI&#9;JAVA://org.apache.ibatis.executor.BaseExecutor&#10;HttpServle&#9;PSI&#9;JAVA://javax.servlet.http.HttpServlet&#10;AbstractLis&#9;PSI&#9;JAVA://java.util.AbstractList&#10;DispatcherServlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;ProxyFactoryBean&#9;PSI&#9;JAVA://org.springframework.aop.framework.ProxyFactoryBean&#10;Enum&#9;PSI&#9;JAVA://com.sun.jmx.snmp.agent.SnmpRequestTree.Enum" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569241202398" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/soft863-20191011/07 系统实现/开发源码/smartedu" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2850575" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chb" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chb.decorator.upgrade" />
+      <recent name="com.chb.decorator.battercake" />
+      <recent name="com.chb.adapter.loginadapder.v2.adapters" />
+      <recent name="com.chb.strategy.pay.strategy" />
+      <recent name="com.chb.strategy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\咕泡学院\01.架构师内功心法\module01-DesignPattern\work1-factory-mode\src\main\java\com\chb\decorator\upgrade" />
+      <recent name="F:\咕泡学院\01.架构师内功心法\module01-DesignPattern\work1-factory-mode\src\test\java\com\chb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GuavaTest">
+    <configuration name="BatterCakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chb.decorator.battercake.BatterCakeTest" />
+      <module name="work1-factory-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chb.decorator.battercake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EventsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chb.observer.events.EventsTest" />
+      <module name="work1-factory-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chb.observer.events.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GuavaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chb.observer.guava.GuavaTest" />
+      <module name="work1-factory-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chb.observer.guava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chb.observer.iobserver.ITest" />
+      <module name="work1-factory-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chb.observer.iobserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chb.observer.gperadvice.ObserverTest" />
+      <module name="work1-factory-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chb.observer.gperadvice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FactoryModeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="work1-factory-mode" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chb.factory.FactoryModeApplication" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.FactoryModeApplication" />
+      <item itemvalue="Application.BatterCakeTest" />
+      <item itemvalue="Application.ObserverTest" />
+      <item itemvalue="Application.ITest" />
+      <item itemvalue="Application.EventsTest" />
+      <item itemvalue="Application.GuavaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuavaTest" />
+        <item itemvalue="Application.EventsTest" />
+        <item itemvalue="Application.ITest" />
+        <item itemvalue="Application.ObserverTest" />
+        <item itemvalue="Application.BatterCakeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2acbff23-1742-4f1d-9e4e-c3d6244e58c8" name="Default Changelist" comment="" />
+      <created>1569162028184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569162028184</updated>
+      <workItem from="1569162032854" duration="2639000" />
+      <workItem from="1569237376676" duration="3627000" />
+      <workItem from="1569393882243" duration="11232000" />
+      <workItem from="1569459325480" duration="12163000" />
+      <workItem from="1569482649170" duration="244000" />
+      <workItem from="1569482941294" duration="5424000" />
+      <workItem from="1569548010995" duration="457000" />
+      <workItem from="1569548550694" duration="6839000" />
+      <workItem from="1569739599484" duration="599000" />
+      <workItem from="1570514441027" duration="5659000" />
+      <workItem from="1570520121466" duration="2987000" />
+      <workItem from="1570584444359" duration="14650000" />
+      <workItem from="1570755207068" duration="6857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73377000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="107" y="139" width="1564" height="887" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.32956153" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Database Changes" order="15" weight="0.14992929" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info id="Structure" order="1" sideWeight="0.27755103" side_tool="true" weight="0.3234568" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.536071" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.37295082" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3306011" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32786885" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49865952" weight="0.32956153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.722449" visible="true" weight="0.40292552" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32936507" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32956153" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.09986595" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" x="19" y="346" width="1492" height="224" id="Run Dashboard" order="14" sideWeight="0.49930844" visible="true" weight="0.29278642" />
+      <window_info anchor="bottom" id="Thumbnails" order="17" weight="0.32956153" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.47227192" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Maven" order="3" weight="0.09986595" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Thumbnails" order="17" weight="0.32956153" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32786885" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3306011" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49865952" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.37295082" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32956153" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="15" weight="0.14992929" />
+      <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.47227192" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.722449" visible="true" weight="0.3234568" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" sideWeight="0.27755103" side_tool="true" weight="0.3234568" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.536071" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32936507" />
+      <window_info anchor="bottom" x="19" y="346" width="1492" height="224" id="Run Dashboard" order="14" sideWeight="0.49930844" visible="true" weight="0.29278642" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/proxy/gpproxy/GPProxy.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/proxy/cglibproxy/CglibTest.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/strategy/pay/strategy/Paymeint.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/strategy/pay/Order.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/adapters/LoginForWechatAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/IPassportForThird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/PassportForThirdAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v2/V2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.9.RELEASE/spring-aop-5.1.9.RELEASE.jar!/org/springframework/aop/framework/adapter/AdvisorAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE.jar!/org/springframework/web/servlet/HandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="664" column="35" lean-forward="true" selection-start-line="664" selection-start-column="35" selection-end-line="664" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v1/servie/SiginForThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/adapter/loginadapder/v1/servie/SiginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/adapters/LoginForTelAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/adapters/LoginAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/adapters/LoginForQQAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/adapters/LoginForSinaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/adapters/LoginForTokenAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/adapters/LoginForWechatAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/V2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/SiginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/PassportForThirdAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/IsigninForThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/IPassportForThird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/upgrade/SigninForThirdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/BaseBattercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/Battercake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/BattercakeDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/EggDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/SausageDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/decorator/battercake/BatterCakeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="113" column="16" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
+          <folding>
+            <element signature="e#2952#2953#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#3747#3748#0" expanded="true" />
+            <element signature="e#3784#3785#0" expanded="true" />
+            <element signature="e#5937#5938#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/iobserver/ITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/iobserver/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/iobserver/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0.jar!/com/google/common/eventbus/EventBus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="77" column="41" lean-forward="true" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/GPer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/gperadvice/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/EventLisenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/MouseEventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/MouseEventCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/events/EventsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/guava/GuavaEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work1-factory-mode/src/main/java/com/chb/observer/guava/GuavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.24/tomcat-embed-core-9.0.24.jar!/javax/servlet/ServletContextListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/EventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/context/ContextLoaderListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-io-2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>work1-factory-mode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml:classmate:1.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2850575" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
